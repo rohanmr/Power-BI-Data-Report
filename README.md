@@ -2,7 +2,7 @@
 
 Microsoft Power-BI Desktop 
 
-It is Dashboard for Ecommerce site data report using Power BI Desktop. 
+It is Dashboard for Ecommerce site data reports using Power BI Desktop. 
 
 ## Output:
 
